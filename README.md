@@ -44,8 +44,8 @@ Uma API robusta construída com **Node.js** e **Express**, utilizando **Prisma O
     
 
 ## Rotas da API
-    | Método | Rota | Descrição | Acesso |
-    | :--- | :--- | :--- | :--- |
-    | **POST** | `/cadastro` | Cria um novo usuário | Público |
-    | **POST** | `/login` | Autentica usuário e gera Token | Público |
-    | **GET** | `/listar-usuarios` | Lista usuários cadastrados | Privado (JWT) |
+| Método | Rota | Descrição | Acesso |
+| :--- | :--- | :--- | :--- |
+| **POST** | `/cadastro` | Cria um novo usuário | Público |
+| **POST** | `/login` | Autentica usuário e gera Token | Público |
+| **GET** | `/listar-usuarios` | Lista usuários cadastrados | Privado (JWT) |
