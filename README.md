@@ -44,7 +44,6 @@ Uma API robusta construída com **Node.js** e **Express**, utilizando **Prisma O
     
 
 ## Rotas da API
-    ```bash
     | Método | Rota | Descrição | Acesso |
     | :--- | :--- | :--- | :--- |
     | **POST** | `/cadastro` | Cria um novo usuário | Público |
